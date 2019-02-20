@@ -1,4 +1,4 @@
-#   🌌 \~* the-listening \~*✨
+#   🌌 \*~ the-listening \~* ✨
 
 ### the-listenings theme for [Slack](https://slack.com/)
 
