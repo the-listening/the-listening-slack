@@ -14,3 +14,7 @@ Dark subtle pastel theme for chatting on slack ✨
 ```
 - To Install **Preferences > Sidebar >** Paste in **Hex Values** 
 
+Feedback and suggestions are always welcome! 
+
+Enjoy! 🌙
+
